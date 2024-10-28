@@ -1,4 +1,5 @@
 Pseudo-polynomial Partition
+
 Given a set consisting of n integers [a1, a2, … an], you want to partition into two parts so that the sum of the two parts is equal.  Suppose s = a1 + a2 … + an. The time complexity of your algorithm should be O(ns) or better.
 
 
